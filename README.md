@@ -1,5 +1,5 @@
 # geoip
-Returns geolocation of a website domain via command line in json format.
+Returns geolocation of a website domain via command line in JSON format.
 
 Prerequisites:
  - Install [**curl**](https://github.com/curl/curl)

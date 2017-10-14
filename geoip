@@ -1,0 +1,3 @@
+#! /bin/bash
+  
+curl -sS "freegeoip.net/json/$1" | jq
